@@ -43,7 +43,6 @@ You now have to insert
 ```html
 <img src="https://raw.githubusercontent.com/USER/ocbadge/main/card.svg"/>
 ```
-<img src="https://raw.githubusercontent.com/USER/ocbadge/main/card.svg"/>
 in your github profile README
 ## Local Generation
 ```sh
